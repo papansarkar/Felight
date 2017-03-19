@@ -1,0 +1,6 @@
+username=papansrkr877@gmail.com
+password=ptv2325prps19
+props.put("mail.smtp.auth", "true");
+props.put("mail.smtp.starttls.enable", "true");
+props.put("mail.smtp.host", "smtp.gmail.com");
+props.put("mail.smtp.port", "593");
